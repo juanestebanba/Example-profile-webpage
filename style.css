@@ -7,6 +7,7 @@ body {
 
 .container {
   margin: 40px auto;
+  width: 700px;
 }
 
 h1, h2 {
